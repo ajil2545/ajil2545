@@ -11,7 +11,7 @@ I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 <br>
 
 
