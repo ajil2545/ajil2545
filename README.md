@@ -1,6 +1,6 @@
-I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering, Kollam.
 <h1 align="center">Hi 👋, I'm AJIL K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FULL STACK Developer from India.<BR>
+I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering, Kollam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajil2545&label=Profile%20views&color=0e75b6&style=flat" alt="ajil2545" /> </p>
 
