@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AJIL...</h1>
+<h1 align="center">Hi 👋, I'm AJIL K</h1>
 <h3 align="center">A passionate FULL STACK Developer from India.<BR>
 I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering, Kollam.</h3>
 
