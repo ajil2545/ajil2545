@@ -9,7 +9,7 @@ I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering,
 <p align="left">
   On WhatsApp : +918606713330
 </p>
-<img align="right" alt="Coding" width="600" src="https://github.com/ajil2545/ajil2545/blob/main/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/ajil2545/ajil2545/blob/main/programmer.gif">
 <br>
   </div>
 
