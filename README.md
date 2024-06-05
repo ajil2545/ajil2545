@@ -4,16 +4,12 @@ I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajil2545&label=Profile%20views&color=0e75b6&style=flat" alt="ajil2545" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div class="row">
-  <div style="float: left;">
+<di>
   <h3 align="left">&#128222;Connect with me:</h3>
   <p align="left">
     On WhatsApp : +918606713330
   </p>
-  </div>
-  <div style="float: right;">
-    <img align="right" alt="Coding" width="400" src="https://github.com/ajil2545/ajil2545/blob/main/programmer.gif">
-  </div>
+  <img align="right" alt="Coding" width="400" src="https://github.com/ajil2545/ajil2545/blob/main/programmer.gif">
 <br>
 </div>
 
