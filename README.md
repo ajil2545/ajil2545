@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AJIL K</h1>
-<h3 align="center">A passionate FULL STACK Developer from India.<BR>
-I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering, Kollam.</h3>
+<h3 align="center">Software Engineer at Knowledge Lens: A Rockwell Automation Company<BR>
+MCA Graduate From TKM College of Engineering, Kollam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajil2545&label=Profile%20views&color=0e75b6&style=flat" alt="ajil2545" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
