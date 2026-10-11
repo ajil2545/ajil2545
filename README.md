@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajil2545&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/ajilkunjumon" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ajilkunjumon?logo=twitter&style=flat&color=1DA1F2" alt="Twitter Follow" />
-  </a>
 </p>
 
 <br>
@@ -16,7 +13,7 @@
   <h3 align="left">👨‍💻 About Me:</h3>
   <p align="left">
     🔭 I’m currently working at <b>Rockwell Automation</b> <br>
-    🌱 I’m currently learning <b>[Insert what you are learning here, e.g., Cloud Computing, Advanced ML]</b> <br>
+    🌱 I’m currently learning <b>Gen AI / ML Engineering</b> <br>
     👯 I’m looking to collaborate on <b>[Insert project types, e.g., Open Source AI projects]</b> <br>
     💬 Ask me about <b>Java, Python, SQL, and Machine Learning</b> <br>
     📫 How to reach me: <b>[Insert your professional email address here]</b> <br>
@@ -67,8 +64,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ajil-k-871a64187/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  <a href="https://twitter.com/ajilkunjumon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
